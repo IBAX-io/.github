@@ -1,2 +1,1 @@
-# .github
-IBAX Network github profile 
+# IBAX Network github profile 
