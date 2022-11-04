@@ -9,7 +9,7 @@
   <a href="https://ibax.io/">
     IBAX Website
   </a>&emsp;
-  <a href="https://weaver.ibax.io/">
+  <a href="https://weaver.ibax.network/">
     Weaver IBAX IDE
   </a>&emsp;
   <a href="https://docs.ibax.io/">
